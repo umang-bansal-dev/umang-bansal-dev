@@ -94,7 +94,7 @@
 
 ## 🚀 Projects
 
-> 🔨 *Projects coming soon — currently building end-to-end GCP data pipeline projects*
+🚀 *Building real-world GCP data engineering projects — 1 live, 3 in progress*
 
 | # | Project | Tech Stack | Status |
 |---|---|---|---|
