@@ -96,9 +96,9 @@
 
 > 🔨 *Projects coming soon — currently building end-to-end GCP data pipeline projects*
 
-| # | Project | Tech Stack | Status |
+| # | Project | Tech Stack | Status | Repo Link
 |---|---|---|---|
-| 1 | ETL Pipeline — CSV to BigQuery | Python, BigQuery, GCS, SQL | 🔨 Building |
+| 1 | ETL Pipeline — CSV to BigQuery | Python, BigQuery, GCS, SQL | ✅ Completed | https://github.com/umang-bansal-dev/etl-bigquery-pipeline-codebase) |
 | 2 | Apache Airflow DAG Pipeline | Airflow, Python, Docker, REST API | 🔨 Building |
 | 3 | PySpark Data Processing | PySpark, Python, Parquet | 🔨 Building |
 | 4 | End-to-End GCP Pipeline (Capstone) | GCS, Dataflow, BigQuery, Airflow, Looker | 🔨 Building |
