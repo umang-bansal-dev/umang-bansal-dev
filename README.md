@@ -99,9 +99,10 @@
 | # | Project | Tech Stack | Status |
 |---|---|---|---|
 | 1 | ETL Pipeline — CSV to BigQuery (https://github.com/umang-bansal-dev/etl-bigquery-pipeline-codebase)| Python, BigQuery, GCS, SQL | ✅ Completed | 
-| 2 | Apache Airflow DAG Pipeline | Airflow, Python, Docker, REST API | 🔨 Building |
-| 3 | PySpark Data Processing | PySpark, Python, Parquet | 🔨 Building |
-| 4 | End-to-End GCP Pipeline (Capstone) | GCS, Dataflow, BigQuery, Airflow, Looker | 🔨 Building |
+| 2 | SQL BigQuery Analytics (https://github.com/umang-bansal-dev/sql-bigquery-analytics) | BigQuery, SQL, GCP | ✅ Complete |
+| 3 | Apache Airflow DAG Pipeline | Airflow, Python, Docker, REST API | 🔨 Building |
+| 4 | PySpark Data Processing | PySpark, Python, Parquet | 🔨 Building |
+| 5 | End-to-End GCP Pipeline (Capstone) | GCS, Dataflow, BigQuery, Airflow, Looker | 🔨 Building |
 
 ---
 
